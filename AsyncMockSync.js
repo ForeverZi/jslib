@@ -25,6 +25,6 @@ function run(gen){
     });
 }
 
-module.exports = {
+export default {
     run: run
 };
